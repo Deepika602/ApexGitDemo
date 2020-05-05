@@ -1,0 +1,24 @@
+Positive testing	Negative testing
+Positive testing means testing the application by providing valid data.	Negative testing means testing the application by providing the invalid data.
+In case of positive testing, tester always checks the application for a valid set of values.	In the case of negative testing, tester always checks the application for the invalid set of values.
+Positive testing is done by considering the positive point of view for example: checking the first name field by providing the value such as "Akshay".	Negative testing is done by considering the negative point of view for example: checking the first name field by providing the value such as
+It verifies the known set of test conditions.	It verifies the unknown set of conditions.
+The positive testing checks the behavior of the system by providing the valid set of data.	The negative testing tests the behavior of the system by providing the invalid set of data.
+The main purpose of the positive testing is to prove that the project works well according to the customer requirements.	The main purpose of the negative testing is to break the project by providing the invalid set of data.
+The positive testing tries to prove that the project meets all the customer requirements.	The negative testing tries to prove that the project does not meet all the customer requirements.
+Job/HR Interview Questions	Database Interview Questions
+PL/SQL Interview Questions	SQL Interview Questions
+Oracle Interview Questions	Android Interview Questions
+SQL Server Interview Questions	MySQL Interview Questions
+Java Basics Interview Questions	Java OOPs Interview Questions
+Java Multithreading Questions	Java String & Exception Questions
+Java Collection Interview Questions	JDBC Interview Questions
+Servlet Interview Questions	JSP Interview Questions
+Spring Interview Questions	Hibernate Interview Questions
+
+ 
+
+
+
+
+
